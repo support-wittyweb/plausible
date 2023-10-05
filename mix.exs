@@ -113,7 +113,7 @@ defmodule Plausible.MixProject do
       {:public_suffix, git: "https://github.com/axelson/publicsuffix-elixir"},
       {:ref_inspector, "~> 1.3"},
       {:referrer_blocklist, git: "https://github.com/plausible/referrer-blocklist.git"},
-      {:sentry, "~> 8.0"},
+      {:sentry, "~> 9.1"},
       {:siphash, "~> 3.2"},
       {:timex, "~> 3.7"},
       {:ua_inspector, "~> 3.0"},
